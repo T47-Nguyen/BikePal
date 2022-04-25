@@ -13,3 +13,8 @@ height: calc(100% - 73px);
 height: 100%;
 }
 }
+
+ .icon_list a {
+     text-decoration: none;
+
+ }
