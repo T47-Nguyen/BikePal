@@ -17,7 +17,16 @@ height: 100%;
  .icon_list a {
      text-decoration: none;
 
+
  }
+
+ /*newsletter*/
+ @media (min-with:768px) {
+   .news-put{
+     width: 50%;
+   }
+ }
+
  /*Pricing*/
 
 #mainCoantiner
