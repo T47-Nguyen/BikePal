@@ -1,3 +1,15 @@
+/* font*/
+@font-face {
+  font-family:'Tapestry';
+  src: url(font/Tapestry-Regular.ttf);
+}
+.logo a{
+  font-family: 'Tapestry', sans-serif;
+  
+}
+
+
+
 .divider:after,
 .divider:before {
 content: "";
@@ -204,9 +216,9 @@ ol, ul {
 
 /***end*****/
 
-.card{    border: none;
+.card {    border: none;
     border-radius: 30px;
-background-color: #14edaa;}
+}
 
 .wow-bg
 {
