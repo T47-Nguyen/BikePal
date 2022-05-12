@@ -44,6 +44,12 @@ h1 {
  }*/
 
  /*how it works*/
+ #hit {
+   background-color: pink;
+ }
+ #hit h1 {
+   color: palevioletred;
+ }
  #hit .card-img-top {
   border-top-left-radius: 27px;
   border-top-right-radius: 27px;
