@@ -4,6 +4,11 @@
     text-decoration: none;
 
 }
+.text-muted {
+    --bs-text-opacity: 1;
+    color: blue!important;
+  }
+  
 * {
     margin: 0;
     padding: 0;

@@ -12,8 +12,7 @@ h1 {
   font-weight: bold;
 }
 .map-system{
-  color: rgb(186,40,11);
-  background-color: rgb(113,193,141);
+  color: rgb(3,127,129);
 }
 /*map navigation*/
 .map-container{
@@ -43,9 +42,7 @@ h1 {
   text-decoration: none;
 
 }
-/*.footerproduct a{
-   text-decoration: none;
- }*/
+
 
  /*how it works*/
  #hit {
@@ -187,7 +184,10 @@ position: absolute;
     transform: scale(1.8);
     opacity: 0.5;
 }
-
+.text-warning {
+  --bs-text-opacity: 1;
+  color: rgb(130,194,147);
+}
   /*aboutus*/
   #green{
     background-color: rgb(180,214,161);
@@ -205,7 +205,7 @@ position: absolute;
     height: 100vh;
     width: 100%;
     min-height: 500px;
-    background-image: url(/images/bikeabout.jpg);
+    background-image: url('../images/condien.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
