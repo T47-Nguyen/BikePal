@@ -11,6 +11,10 @@ h1 {
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: bold;
 }
+.map-system{
+  color: rgb(186,40,11);
+  background-color: rgb(113,193,141);
+}
 /*map navigation*/
 .map-container{
   overflow:hidden;
