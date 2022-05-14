@@ -71,9 +71,17 @@ height: 100%;
 }
 }
  
- 
+ /* showcase index*/
+ #showcaseindex{
+   background-color: rgb(243,211,92);
+   color: rgb(26,66,118);
+ }
 
  /*newsletter*/
+ #newsletter{
+   background-color: rgb(3,127,129);
+   color: rgb(181,191,223);
+ }
  @media (min-with:768px) {
    .news-put{
      width: 50%;
@@ -81,6 +89,10 @@ height: 100%;
  }
 
  /*Pricing*/
+ #pricing{
+   background-color: rgb(230,226,221);
+   color: rgb(30,58,100);
+ }
 
 #mainCoantiner
 {
@@ -173,6 +185,18 @@ position: absolute;
 }
 
   /*aboutus*/
+  #green{
+    background-color: rgb(180,214,161);
+    color: rgb(52,56,140)
+    ;
+  }
+  #section3-aboutus{
+    color: rgb(13,138,126);
+  }
+  #section4-aboutus{
+    color:  rgb(13,138,126);
+   
+  }
   .mainaboutus{
     height: 100vh;
   min-height: 500px;
