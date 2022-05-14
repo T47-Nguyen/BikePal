@@ -199,15 +199,17 @@ position: absolute;
   }
   .mainaboutus{
     height: 100vh;
+    width: 100%;
     min-height: 500px;
-    background-image: url('images/undraw_city_life_gnpr.svg');
+    background-image: url(/images/shubham-dhage-f19Jyohzw08-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position:inherit;
-    float:inherit;
+    /*float:inherit;*/
     text-align: center;
    background-color: #cccccc;
+   color: rgb(47,118,119);
    
   }
 /***social***/
