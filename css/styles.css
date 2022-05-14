@@ -201,7 +201,7 @@ position: absolute;
     height: 100vh;
     width: 100%;
     min-height: 500px;
-    background-image: url(/images/shubham-dhage-f19Jyohzw08-unsplash.jpg);
+    background-image: url(/images/nextbike-6SGcwZIzdMo-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ position: absolute;
     /*float:inherit;*/
     text-align: center;
    background-color: #cccccc;
-   color: rgb(47,118,119);
+   color: rgb(128,195,131);
    
   }
 /***social***/
@@ -309,7 +309,11 @@ ol, ul {
   margin-top: 4px;
 }
 
-
+.btn-primary {
+  color: rgb(201,39,18);
+  background-color:rgb(128,195,131);
+  border-color: greenyellow;
+}
 
 .starsec{
   content: " ";
