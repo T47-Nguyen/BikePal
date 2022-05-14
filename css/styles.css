@@ -199,12 +199,12 @@ position: absolute;
   }
   .mainaboutus{
     height: 100vh;
-  min-height: 500px;
-  background-image: url('images/undraw_city_life_gnpr.svg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  position:inherit;
+    min-height: 500px;
+    background-image: url('images/undraw_city_life_gnpr.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position:inherit;
     float:inherit;
     text-align: center;
    background-color: #cccccc;
