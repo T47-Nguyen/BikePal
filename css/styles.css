@@ -7,12 +7,16 @@ body{
   /*background-color: papayawhip;*/
   
 }
+
 h1 {
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: bold;
 }
 .map-system{
   color: rgb(3,127,129);
+}
+#carouselExampleCaptions{
+  align-items: center;
 }
 /*map navigation*/
 .map-container{
@@ -49,11 +53,17 @@ h1 {
    background-color: pink;
  }
  #hit h1 {
-   color: palevioletred;
+   color: rgb(228,8,155);
  }
  #hit .card-img-top {
   border-top-left-radius: 27px;
   border-top-right-radius: 27px;
+}
+.card-title{
+  color: rgb(35,58,136);
+}
+.card-text{
+  color: rgb(35,58,136);
 }
 
 .divider:after
